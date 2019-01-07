@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jack.iml" filepath="$PROJECT_DIR$/.idea/modules/jack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jack_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jack_main.iml" group="jack" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jack_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jack_test.iml" group="jack" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/knowledge-system-common.iml" filepath="$PROJECT_DIR$/.idea/modules/knowledge-system-common.iml" group="knowledge-system-common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/knowledge-system-common/knowledge-system-common_main.iml" filepath="$PROJECT_DIR$/.idea/modules/knowledge-system-common/knowledge-system-common_main.iml" group="knowledge-system-common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/knowledge-system-common/knowledge-system-common_test.iml" filepath="$PROJECT_DIR$/.idea/modules/knowledge-system-common/knowledge-system-common_test.iml" group="knowledge-system-common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/knowledge-system-entity.iml" filepath="$PROJECT_DIR$/.idea/modules/knowledge-system-entity.iml" group="knowledge-system-entity" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/knowledge-system-entity/knowledge-system-entity_main.iml" filepath="$PROJECT_DIR$/.idea/modules/knowledge-system-entity/knowledge-system-entity_main.iml" group="knowledge-system-entity" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/knowledge-system-entity/knowledge-system-entity_test.iml" filepath="$PROJECT_DIR$/.idea/modules/knowledge-system-entity/knowledge-system-entity_test.iml" group="knowledge-system-entity" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/knowledge-system-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/knowledge-system-interface.iml" group="knowledge-system-interface" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/knowledge-system-interface/knowledge-system-interface_main.iml" filepath="$PROJECT_DIR$/.idea/modules/knowledge-system-interface/knowledge-system-interface_main.iml" group="knowledge-system-interface" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/knowledge-system-interface/knowledge-system-interface_test.iml" filepath="$PROJECT_DIR$/.idea/modules/knowledge-system-interface/knowledge-system-interface_test.iml" group="knowledge-system-interface" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/knowledge-system-mapper.iml" filepath="$PROJECT_DIR$/.idea/modules/knowledge-system-mapper.iml" group="knowledge-system-mapper" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/knowledge-system-mapper/knowledge-system-mapper_main.iml" filepath="$PROJECT_DIR$/.idea/modules/knowledge-system-mapper/knowledge-system-mapper_main.iml" group="knowledge-system-mapper" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/knowledge-system-mapper/knowledge-system-mapper_test.iml" filepath="$PROJECT_DIR$/.idea/modules/knowledge-system-mapper/knowledge-system-mapper_test.iml" group="knowledge-system-mapper" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/knowledge-system-web.iml" filepath="$PROJECT_DIR$/.idea/modules/knowledge-system-web.iml" group="knowledge-system-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/knowledge-system-web/knowledge-system-web_main.iml" filepath="$PROJECT_DIR$/.idea/modules/knowledge-system-web/knowledge-system-web_main.iml" group="knowledge-system-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/knowledge-system-web/knowledge-system-web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/knowledge-system-web/knowledge-system-web_test.iml" group="knowledge-system-web" />
+    </modules>
+  </component>
+</project>
